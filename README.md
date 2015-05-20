@@ -1,2 +1,2 @@
 # spring-rest-server
-Simple REST server with Spring intgration
+Simple REST server with Spring integration
