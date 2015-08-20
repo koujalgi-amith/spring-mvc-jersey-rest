@@ -1,4 +1,4 @@
-package com.razorthink.rest;
+package com.amithkoujalgi.rest;
 
 
 import javax.ws.rs.GET;
@@ -8,7 +8,7 @@ import javax.ws.rs.core.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.razorthink.services.interfaces.HelloServiceInterface;
+import com.amithkoujalgi.services.interfaces.HelloServiceInterface;
 
 @Component
 @Path("/test")

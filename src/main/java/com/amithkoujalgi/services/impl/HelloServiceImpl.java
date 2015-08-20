@@ -1,7 +1,7 @@
-package com.razorthink.services.impl;
+package com.amithkoujalgi.services.impl;
 
 
-import com.razorthink.services.interfaces.HelloServiceInterface;
+import com.amithkoujalgi.services.interfaces.HelloServiceInterface;
 
 public class HelloServiceImpl implements HelloServiceInterface
 {

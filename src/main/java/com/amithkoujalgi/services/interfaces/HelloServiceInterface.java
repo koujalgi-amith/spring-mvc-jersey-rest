@@ -1,4 +1,4 @@
-package com.razorthink.services.interfaces;
+package com.amithkoujalgi.services.interfaces;
 
 
 public interface HelloServiceInterface
